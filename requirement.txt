@@ -1,0 +1,6 @@
+PyPDF2
+streamlit
+Telethon
+uvicorn
+fastapi
+crewai
