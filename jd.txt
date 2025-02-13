@@ -1,0 +1,55 @@
+JOB TITLE: Senior Full Stack Developer
+LOCATION: Remote (USA)
+DEPARTMENT: Engineering
+REPORTING TO: Engineering Manager
+
+ABOUT THE ROLE:
+We are seeking an experienced Full Stack Developer to join our growing engineering team. The ideal candidate will have a strong background in both frontend and backend development, with a passion for creating scalable, efficient web applications.
+
+REQUIRED QUALIFICATIONS:
+- 5+ years of experience in full stack development
+- Strong proficiency in JavaScript/TypeScript, React, and Node.js
+- Experience with Python and Django framework
+- Solid understanding of database design and SQL/NoSQL databases
+- Experience with cloud platforms (AWS/Azure/GCP)
+- Bachelor's degree in Computer Science or related field
+
+KEY RESPONSIBILITIES:
+1. Design and implement scalable web applications
+2. Write clean, maintainable, and efficient code
+3. Collaborate with cross-functional teams
+4. Participate in code reviews and architectural discussions
+5. Mentor junior developers
+6. Troubleshoot and debug applications
+
+TECHNICAL SKILLS REQUIRED:
+- Frontend: React, Redux, HTML5, CSS3, TypeScript
+- Backend: Node.js, Python, Django
+- Databases: PostgreSQL, MongoDB
+- Tools: Git, Docker, Jenkins
+- Testing: Jest, Pytest
+- Cloud: AWS services
+
+SOFT SKILLS REQUIRED:
+- Strong problem-solving abilities
+- Excellent communication skills
+- Team player mentality
+- Ability to work independently
+- Strong attention to detail
+
+PREFERRED QUALIFICATIONS:
+- Experience with microservices architecture
+- Knowledge of GraphQL
+- Experience with Kubernetes
+- Contributions to open-source projects
+- Master's degree in Computer Science
+
+BENEFITS:
+- Competitive salary
+- Health, dental, and vision insurance
+- 401(k) matching
+- Flexible PTO policy
+- Remote work options
+- Professional development budget
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
